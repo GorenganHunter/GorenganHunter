@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/gorengan.hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorengan.hunter" height="30" width="40" /></a>
-<a href="https://discord.com/users/952514844089778208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gorenganhunter" height="30" width="40" /></a>
+<a href="https://discord.gg/haJZufcv8G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bandar Gorengan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
